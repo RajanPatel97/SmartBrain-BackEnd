@@ -1,8 +1,5 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+# SmartBrain
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Recognises Faces and Celebrity likeness in images. Just enter a URL and click detect!
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+### https://thesmartestbrain.herokuapp.com/
